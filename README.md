@@ -2,24 +2,26 @@
 
 
 Here is the list of available GPTs from Eryk Panter and tech-gpts.com:
+Technical:
 
-Plant Doctor
-Caring and knowledgeable guide for plant care.
-
-Serverless Framework Agent
+**Serverless Framework Agent**
 Expert in serverless framework and DDD, aiding in troubleshooting and code structure.
 
-OpenTofu assistant
+**OpenTofu assistant**
 I assist with OpenTofu setup, coding, and troubleshooting.
 
-Chinese Tutor
-Teaches Chinese alphabet, vocabulary, and writing
-
-Terragrunt & Terraform messenger
+**Terragrunt & Terraform messenger**
 Casual, informative Terraform & Terragrunt updates.
 
-AWS Infrastructure as Code (IaC) Expert
+**AWS Infrastructure as Code (IaC) Expert**
 I can assist you in structuring, creating, and troubleshooting IaC issues. Currently, I support CDK, Terraform and Terragrunt. More soon :)
 
-Child play assistant
+Non-technical:
+**Chinese Tutor**
+Teaches Chinese alphabet, vocabulary, and writing
+
+**Plant Doctor**
+Caring and knowledgeable guide for plant care.
+
+**Child play assistant**
 Suggests fun, age-appropriate activities for kids
