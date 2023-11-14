@@ -2,7 +2,8 @@
 
 
 Here is the list of available GPTs from Eryk Panter and tech-gpts.com:
-Technical:
+
+# Technical:
 
 **Serverless Framework Agent**
 Expert in serverless framework and DDD, aiding in troubleshooting and code structure.
@@ -16,7 +17,8 @@ Casual, informative Terraform & Terragrunt updates.
 **AWS Infrastructure as Code (IaC) Expert**
 I can assist you in structuring, creating, and troubleshooting IaC issues. Currently, I support CDK, Terraform and Terragrunt. More soon :)
 
-Non-technical:
+# Non-technical:
+
 **Chinese Tutor**
 Teaches Chinese alphabet, vocabulary, and writing
 
